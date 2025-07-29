@@ -8,7 +8,7 @@ With over 15 years of experience building secure full-stack web applications (LA
 
 ### 💻 Web & Backend Engineering
 - ⚙️ Passionate PHP developer, proficient with Laravel and MySQL
-- 🚀 Built 30+ secure full-stack applications in finance, education, and energy
+- 🚀 Built 300+ secure full-stack applications in finance, education, and energy
 - 🧩 Advanced Git workflows for team collaboration and CI/CD automation
 
 ---
