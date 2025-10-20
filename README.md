@@ -36,7 +36,7 @@ With over 15 years of experience building secure full-stack web applications (LA
 
 ### 📫 Reach Me
 <a href="https://twitter.com/e_oleghe"><code><img height="20" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg"></code> Twitter</a>  
-📧 ewan.oleghe@gmail.com
+📧 ewan.mails@gmail.com
 
 ---
 
