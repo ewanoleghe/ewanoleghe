@@ -57,7 +57,7 @@ Former full-stack developer with **15+ years in secure software engineering**, n
 ```bash
 nmap -sC -sV -p- --min-rate 1000 -oA scan <IP>
 gobuster dir -u http://<IP> -w medium.txt -x php,html,txt
-
+```
 ---
 
 ### 🤝 Let’s Collaborate On
