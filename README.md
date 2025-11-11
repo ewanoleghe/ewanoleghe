@@ -33,6 +33,33 @@ Former full-stack developer with **15+ years in secure software engineering**, n
 
 ---
 
+### MITRE ATT&CK in Practice
+| Tactic | Technique | Application |
+|--------|-----------|-----------|
+| Initial Access | T1190 – Exploit Public App | Laravel debug mode → RCE |
+| Execution | T1059.006 – Python | Reverse shell via cron |
+| Persistence | T1053 – Scheduled Task | `at` job + encoded payload |
+| Privilege Escalation | T1068 – Kernel Exploit | Dirty COW, SUID binary |
+| Defense Evasion | T1070.004 – Log Clear | `shred`, `wevtutil cl` |
+| Lateral Movement | T1021.001 – RDP | Pass-the-Hash + RDP |
+| Exfiltration | T1041 – C2 Channel | DNS tunneling, HTTPS POST |
+
+---
+
+### OSCP Preparation Guide (90-Day Roadmap)
+
+#### Phase 1: Foundation (Weeks 1–3)
+- Master **Linux/Windows CLI**, `netstat`, `wmic`, `tasklist`
+- Complete **TJNull’s HTB List** (50 retired boxes)
+- Write **one-liner enumeration scripts**
+
+#### Phase 2: Methodology (Weeks 4–6)
+```bash
+nmap -sC -sV -p- --min-rate 1000 -oA scan <IP>
+gobuster dir -u http://<IP> -w medium.txt -x php,html,txt
+
+---
+
 ### 🤝 Let’s Collaborate On
 - Open-source **SIEM detection content** (Splunk, Sigma)
 - **Penetration testing tools** & **exploit development**
@@ -50,20 +77,17 @@ Former full-stack developer with **15+ years in secure software engineering**, n
 
 ### 🧰 Cybersecurity & Tools Arsenal
 
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code></a>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code></a>
-<code><img height="20" src="https://www.splunk.com/content/dam/splunk-blogs/images/2018/splunk-logo.png" height="20"></code></a>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code> <!-- Node.js placeholder, replace with Sentinel if available -->
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/carbon-black-3629003-3025589.png"></code></a>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2699/2699035.png"></code> <!-- Imperva -->
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metasploit_logo_icon_168275.png"></code></a>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code> <!-- Burp Suite -->
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nmap-logo.svg/2048px-Nmap-logo.svg.png" height="20"></code></a>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" height="20"></code></a>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png" height="20"></code></a>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/kali-linux_89633.png"></code></a>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linux_logo_icon_168283.png"></code></a>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4"></code> <!-- Kotlin -->
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="20" src="https://www.splunk.com/content/dam/splunk-blogs/images/2018/splunk-logo.png" height="20"></code>
+<code><img height="20" src="https://learn.microsoft.com/en-us/media/illustrations/azure-sentinel-logo.png" height="20"></code> <!-- Sentinel -->
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/carbon-black-3629003-3025589.png"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metasploit_logo_icon_168275.png"></code>
+<code><img height="20" src="https://portswigger.net/cms/images/01/4e/6b/7b/burp-suite-logo.png" height="20"></code> <!-- Burp -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nmap-logo.svg" height="20"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_icon.svg" height="20"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Docker_%28container_engine%29_logo.svg" height="20"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/kali-linux_89633.png"></code>
 
 ---
 
