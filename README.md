@@ -77,17 +77,20 @@ gobuster dir -u http://<IP> -w medium.txt -x php,html,txt
 
 ### 🧰 Cybersecurity & Tools Arsenal
 
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="20" src="https://www.splunk.com/content/dam/splunk-blogs/images/2018/splunk-logo.png" height="20"></code>
-<code><img height="20" src="https://learn.microsoft.com/en-us/media/illustrations/azure-sentinel-logo.png" height="20"></code> <!-- Sentinel -->
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/carbon-black-3629003-3025589.png"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metasploit_logo_icon_168275.png"></code>
-<code><img height="20" src="https://portswigger.net/cms/images/01/4e/6b/7b/burp-suite-logo.png" height="20"></code> <!-- Burp -->
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nmap-logo.svg" height="20"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_icon.svg" height="20"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Docker_%28container_engine%29_logo.svg" height="20"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/kali-linux_89633.png"></code>
+<p align="center">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" alt="AWS" height="25" style="margin:5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="25" style="margin:5px;">
+  <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2018/splunk-logo.png" alt="Splunk" height="25" style="margin:5px;">
+  <img src="https://learn.microsoft.com/en-us/media/illustrations/azure-sentinel-logo.png" alt="Microsoft Sentinel" height="25" style="margin:5px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/carbon-black-3629003-3025589.png" alt="Carbon Black" height="25" style="margin:5px;">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metasploit_logo_icon_168275.png" alt="Metasploit" height="25" style="margin:5px;">
+  <img src="https://portswigger.net/cms/images/01/4e/6b/7b/burp-suite-logo.png" alt="Burp Suite" height="25" style="margin:5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nmap-logo.svg" alt="Nmap" height="25" style="margin:5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_icon.svg" alt="Wireshark" height="25" style="margin:5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Docker_%28container_engine%29_logo.svg" alt="Docker" height="25" style="margin:5px;">
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/kali-linux_89633.png" alt="Kali Linux" height="25" style="margin:5px;">
+</p>
+
 
 ---
 
