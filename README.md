@@ -43,8 +43,8 @@ Former full-stack developer with **15+ years in secure software engineering**, n
 
 ### 📫 Reach Me
 <a href="https://twitter.com/e_oleghe"><code><img height="20" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg"></code> Twitter (@e_oleghe)</a>  
-📧 ewan.mails@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ewan-oleghe-420baa260/) | [GitHub](https://github.com/ewanoleghe)
+📧 ewan.mails -{at}- gmail -|dot|- com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ewan-o-8b9477108/) | [GitHub](https://github.com/ewanoleghe)
 
 ---
 
