@@ -1,65 +1,70 @@
-<h2>👋 Hi, I’m @ewanoleghe – Web Developer Turned Cybersecurity Engineer</h2>
+## 👋 Hi, I’m @ewanoleghe – Cybersecurity Analyst & Offensive Security Engineer
+
 <hr>
 
-🔐 **Cybersecurity-Focused Software Engineer & OT Security Analyst (Aspirant)**  
-With over 15 years of experience building secure full-stack web applications (LAMP, Laravel), I’ve pivoted into cybersecurity — focusing on offensive security, API protection, and operational technology (OT) simulation labs.
+🔐 **SOC Analyst | Penetration Tester | OT/ICS Security Enthusiast**  
+Former full-stack developer with **15+ years in secure software engineering**, now focused on **threat detection, incident response, penetration testing, and operational technology (OT) security**. Certified in **CompTIA Security+** and **AWS Cloud Practitioner**, actively pursuing **OSCP** and **CySA+**.
 
 ---
 
-### 💻 Web & Backend Engineering
-- ⚙️ Passionate PHP developer, proficient with Laravel and MySQL
-- 🚀 Built 300+ secure full-stack applications in finance, education, and energy
-- 🧩 Advanced Git workflows for team collaboration and CI/CD automation
+### 🛡️ Cybersecurity Expertise
+- 🔍 **SOC Operations**: SIEM (Splunk, Microsoft Sentinel, ELK), EDR (Carbon Black), phishing analysis, threat hunting
+- 🧨 **Offensive Security**: Penetration testing with **Metasploit, Nmap, Burp Suite, Wireshark**, Nessus, privilege escalation
+- ☁️ **Cloud & Infrastructure**: AWS IAM, GuardDuty, CloudTrail, Zero Trust, secure network architecture
+- 🏭 **OT/ICS Security**: Modbus/BACnet simulation, Purdue Model, ISA/IEC 62443 alignment
+- 🐍 **Security Automation**: Python (Pandas, NumPy) for log correlation, anomaly detection, Splunk dashboarding
 
 ---
 
-### 🛡️ Cybersecurity Interests
-- 🧠 Penetration testing (Hack The Box CPTS, OSCP labs in progress)
-- 🛠️ Vulnerability scanning, secure coding, API and container hardening
-- 🏭 Exploring OT/ICS security with simulations using Modbus, Purdue Model, ISA/IEC 62443
+### 🧪 Active Labs & Red Team Training
+- **Hack The Box CPTS** (In Progress) – 15+ machines, focus on Linux/Windows privilege escalation
+- **OSCP Labs** – Buffer overflows, web app exploitation, Active Directory attacks
+- **SIEM Home Lab** – Splunk-based SOC simulation with real-time threat detection & NIST 800-61 workflows
+- **Container & API Hardening** – Trivy/Clair scans, OWASP Top 10 testing with Burp Suite/Postman
+- **ICS Cyber Range** – Simulated attacks on industrial protocols (Modbus, BACnet)
 
 ---
 
-### 🔬 Currently Learning
-- 📲 Kotlin for mobile apps  
-- ⚙️ ICS/SCADA architecture and industrial control protocol security  
-- 🧪 Cyber range labs and CTF challenges for red and blue teaming
+### 🔬 Currently Mastering
+- Advanced **Active Directory attacks** & **lateral movement**
+- **Purple teaming** & **MITRE ATT&CK** framework mapping
+- **YARA**, **Sigma**, and **custom detection rules** for SIEM
+- **Kotlin** for secure mobile app development
 
 ---
 
-### 🤝 Let’s Collaborate
-- 💡 Backend security-focused Laravel projects  
-- 🛠️ Open-source middleware for secure authentication  
-- 🧱 Infrastructure-as-Code or OT security automation (IaC + Git)
+### 🤝 Let’s Collaborate On
+- Open-source **SIEM detection content** (Splunk, Sigma)
+- **Penetration testing tools** & **exploit development**
+- **OT security automation** (IaC, Ansible, Python)
+- **Threat intelligence platforms** & **automated phishing triage**
 
 ---
 
 ### 📫 Reach Me
-<a href="https://twitter.com/e_oleghe"><code><img height="20" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg"></code> Twitter</a>  
-📧 ewan.mails@gmail.com
+<a href="https://twitter.com/e_oleghe"><code><img height="20" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg"></code> Twitter (@e_oleghe)</a>  
+📧 ewan.mails@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ewan-oleghe-420baa260/) | [GitHub](https://github.com/ewanoleghe)
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Cybersecurity & Tools Arsenal
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4"></code> <!-- Kotlin -->
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metasploit_logo_icon_168275.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code></a>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code></a>
+<code><img height="20" src="https://www.splunk.com/content/dam/splunk-blogs/images/2018/splunk-logo.png" height="20"></code></a>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code> <!-- Node.js placeholder, replace with Sentinel if available -->
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/carbon-black-3629003-3025589.png"></code></a>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2699/2699035.png"></code> <!-- Imperva -->
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metasploit_logo_icon_168275.png"></code></a>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code> <!-- Burp Suite -->
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nmap-logo.svg/2048px-Nmap-logo.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code> <!-- Linux -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nmap-logo.svg/2048px-Nmap-logo.svg.png" height="20"></code></a>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" height="20"></code></a>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png" height="20"></code></a>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/kali-linux_89633.png"></code></a>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linux_logo_icon_168283.png"></code></a>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4"></code> <!-- Kotlin -->
 
 ---
 
-<!---
-ewanoleghe/ewanoleghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- ewanoleghe/ewanoleghe is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. --->
