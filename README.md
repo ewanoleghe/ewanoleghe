@@ -3,7 +3,7 @@
 <hr>
 
 🔐 **SOC Analyst | Penetration Tester | OT/ICS Security Enthusiast**  
-Former full-stack developer with **15+ years in secure software engineering**, now focused on **threat detection, incident response, penetration testing, and operational technology (OT) security**. Certified in **CompTIA Security+** and **AWS Cloud Practitioner**, actively pursuing **OSCP** and **CySA+**.
+I began my professional journey as a soil physicist, earning a Ph.D. in Soil Physics and conducting advanced research in soil hydrodynamics, carbon modeling, and geospatial data analysis. I was a former full-stack developer with **15+ years in secure software engineering**, now focused on **threat detection, incident response, penetration testing, and operational technology (OT) security**. Certified in **CompTIA Security+** and **AWS Cloud Practitioner**, actively pursuing **OSCP** and **CySA+**.
 
 ---
 
